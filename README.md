@@ -14,10 +14,14 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 
 ## Run
-python mirror_cse101.py --root "https://insertfullpathhere.edu/professor/classfolder/" --out "Yourcopyfoldername_mirror" --resume
+python mirror_cse101.py --root "https://insertfullpathhere.edu/professor/classfolder/" --out "your_desired_folder_name" --resume
 
 ## Purpose
 For fellow students who not always have reliable internet access with similar class structure
 where files needed not always have extensions and are nested in multiple folders.
 
 <img width="391" height="209" alt="Screenshot of the folder that contains: Makefile, Queue.c, Queue.h, QueueTest.c" src="https://github.com/user-attachments/assets/28011ade-45da-4012-9def-5ba8d123af8b" />
+
+My class is CSE101, replace "cse101" inside of mirror_cse101.py with your class name.
+
+<img width="306" height="243" alt="Screenshot 2026-04-05 at 7 32 50 PM" src="https://github.com/user-attachments/assets/8944aa87-0e29-4891-86c2-ec62bd709f06" />
