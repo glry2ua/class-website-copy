@@ -25,3 +25,8 @@ where files needed not always have extensions and are nested in multiple folders
 My class is CSE101, replace "cse101" inside of mirror_cse101.py with your class name.
 
 <img width="306" height="243" alt="Screenshot 2026-04-05 at 7 32 50 PM" src="https://github.com/user-attachments/assets/8944aa87-0e29-4891-86c2-ec62bd709f06" />
+
+
+Result looks like this
+
+<img width="647" height="474" alt="Screenshot 2026-04-05 at 7 50 11 PM" src="https://github.com/user-attachments/assets/80c06e77-6f1c-4cdc-add2-b3b1f3cc1fe5" />
