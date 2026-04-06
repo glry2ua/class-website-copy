@@ -1,0 +1,6 @@
+You will need:
+Python 3
+beautifulsoup4 version 4.12 or newer
+
+After you installed Python run following:
+python3 -m pip install requests beautifulsoup4
