@@ -14,7 +14,7 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 
 ## Run
-python mirror_cse101.py --root "https://insertfullpathhere.edu/professor/classfolder/" --out "your_desired_folder_name" --resume
+python3 mirror_cse101.py --root "https://insertfullpathhere.edu/professor/classfolder/" --out "your_desired_folder_name" --resume
 
 ## Purpose
 For fellow students who not always have reliable internet access with similar class structure
