@@ -16,7 +16,7 @@ python -m pip install --upgrade pip
 
 pip install -r requirements.txt
 
-## Update data
+## Update .py
 in file mirror_cse101.py update url 
 
 line 11 ROOT = "https://college_name.edu/prof_dir/class_dir/"
