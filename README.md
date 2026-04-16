@@ -19,9 +19,9 @@ pip install -r requirements.txt
 ## Update .py
 in file mirror_cse101.py update url 
 
-line 11 ROOT = "https://college_name.edu/prof_dir/class_dir/"
+line 11 | ROOT = "https://college_name.edu/prof_dir/class_dir/"
 
-line 12 OUT_DIR = "Name_local_folder_for_the_copy"
+line 12 | OUT_DIR = "Name_local_folder_for_the_copy"
 
 
 
