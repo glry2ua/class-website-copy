@@ -13,8 +13,14 @@ source .venv/bin/activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 
+## Update data
+in file mirror_cse101.py update url 
+line 11 ROOT = "https://college_name.edu/prof_dir/class_dir/"
+line 12 OUT_DIR = "Name_local_folder_for_the_copy"
+
+
 ## Run
-python3 mirror_cse101.py --root "https://insertfullpathhere.edu/professor/classfolder/" --out "your_desired_folder_name" --resume
+python3 mirror_cse101.py
 
 ## Purpose
 For fellow students who not always have reliable internet access with similar class structure
