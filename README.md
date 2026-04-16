@@ -9,14 +9,20 @@ Python crawler that mirrors a website subtree to a local folder, including:
 
 ## Install
 python3 -m venv .venv
+
 source .venv/bin/activate
+
 python -m pip install --upgrade pip
+
 pip install -r requirements.txt
 
 ## Update data
 in file mirror_cse101.py update url 
+
 line 11 ROOT = "https://college_name.edu/prof_dir/class_dir/"
+
 line 12 OUT_DIR = "Name_local_folder_for_the_copy"
+
 
 
 ## Run
